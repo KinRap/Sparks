@@ -1,8 +1,8 @@
 ---
-title: The Notebook
+title: Notebook
 layout: default
 parent: Books
-nav_order: 1
+nav_order: 2
 ---
 
 ## The Notebook
