@@ -4,7 +4,7 @@ layout: home
 nav_order: 1
 ---
 
-# Welcome to Nicholas Sparks Reader Guide 
+# Welcome to Nicholas Sparks Reader's Guide 
 
 ![alt Sparks](Images/Sparks3.png)
 
