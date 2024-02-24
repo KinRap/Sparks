@@ -6,7 +6,7 @@ nav_order: 3
 
 # Biography
 
-![alt Sparks](../Images/Sparks1.png)
+![alt Sparks](../Images/SparksA1.png)
 
 Nicholas Sparks was born on 31st of December 1965 in Omaha, Nebraska, U.S.
 
