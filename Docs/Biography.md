@@ -1,6 +1,6 @@
 ---
-title: Sparks
-layout: home
+title: Biography
+layout: default
 nav_order: 3
 ---
 
