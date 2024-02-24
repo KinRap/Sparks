@@ -7,7 +7,7 @@ nav_order: 5
 
 # Movies
 
-![alt books](../Images/Movies.jpg)
+![alt Movies](../Images/Movies.jpg)
 
 
 The best-selling author, Nicholas Sparks has been writing love stories that tear at our heartstrings since 1996.

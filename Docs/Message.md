@@ -7,7 +7,7 @@ nav_order: 5
 
 ## Message in a Bottle
 
-![alt books](../Images/MEssageInABottle1.jpg)
+![alt book](../Images/MEssageInABottle1.jpg)
 
 Thrown into the waves and left to the whims of fate, the bottle could have journeyed to any corner of the sea. Yet, fate had other plans, guiding it to shore a mere three weeks later.
 

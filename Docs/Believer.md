@@ -7,7 +7,7 @@ nav_order: 3
 
 ## True Believer
 
-![alt books](../Images/True-Believer.jpg)
+![alt book](../Images/True-Believer.jpg)
 
 Jeremy Marsh epitomizes the quintessential New Yorker: suave, clad in black attire, and entrenched in the media aristocracy. Renowned for his expertise in debunking supernatural phenomena through his column in "Scientific American," he recently made his national television debut. When a letter arrives from the small town of Boone Creek, North Carolina, detailing mysterious lights in a cemetery steeped in legend, Jeremy's curiosity is piqued, compelling him to investigate.
 
