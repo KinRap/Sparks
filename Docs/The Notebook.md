@@ -1,7 +1,7 @@
 ---
-title: Books
+title: The Notebook
 layout: default
-parent: Books.md
+parent: Books
 nav_order: 1
 ---
 
