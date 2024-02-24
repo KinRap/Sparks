@@ -1,5 +1,5 @@
 ---
-title: Messagi in a Bottle
+title: Message in a Bottle
 layout: default
 parent: Books
 nav_order: 5
